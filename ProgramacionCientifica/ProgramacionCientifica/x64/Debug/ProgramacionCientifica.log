@@ -1,0 +1,3 @@
+﻿  ProgramacionCientifica.cpp
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\ProgramacionCientifica\ProgramacionCientifica.cpp(10,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProgramacionCientifica.vcxproj -> C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\x64\Debug\ProgramacionCientifica.exe
