@@ -1,0 +1,7 @@
+﻿  ParcialMatrices.cpp
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\ParcialMatrices\ParcialMatrices.cpp(9,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\ParcialMatrices\ParcialMatrices.cpp(13,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\ParcialMatrices\ParcialMatrices.cpp(18,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\ParcialMatrices\ParcialMatrices.cpp(22,9): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\ParcialMatrices\ParcialMatrices.cpp(46,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ParcialMatrices.vcxproj -> C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\ProgramacionCientifica\x64\Debug\ParcialMatrices.exe

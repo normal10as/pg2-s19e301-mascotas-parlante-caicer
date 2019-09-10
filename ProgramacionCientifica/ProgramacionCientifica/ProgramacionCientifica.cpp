@@ -1,4 +1,3 @@
-//#include "pch"
 #include <iostream>
 #include <time.h>
 using namespace std;
@@ -8,7 +7,7 @@ int mayor(float mat[N][N])
 	int i, j;
 	float may = mat[0][0];
 	for (i = 0; i < N; i++)
-		for (i = 0; i < N; i++)
+		for (j = 0; j < N; j++)
 			may = (mat[i][j] > may ? mat[i][j] : may);
 	return may;
 }
@@ -21,7 +20,7 @@ int main()
 	{
 		for (j = 0; j <	N; j++)
 		{
-			mat[i][j] = (rand() % 101 - rand() % 101) / float(rand() % 101);
+			mat[i][j] = (rand() % 101 - rand() % 101)/ float(rand() % 101);
 			cout << mat[i][j]<<"\t";
 		}
 		cout << endl;

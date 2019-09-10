@@ -1,0 +1,14 @@
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.1\EntidadesTest.deps.json
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.1\EntidadesTest.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.1\EntidadesTest.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.1\EntidadesTest.dll
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.1\EntidadesTest.pdb
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.1\EntidadesTest.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.1\EntidadesTest.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.1\EntidadesTest.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.1\EntidadesTest.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.1\EntidadesTest.vbproj.CopyComplete
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.1\EntidadesTest.dll
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\EntidadesTest\obj\Debug\netcoreapp2.1\EntidadesTest.pdb

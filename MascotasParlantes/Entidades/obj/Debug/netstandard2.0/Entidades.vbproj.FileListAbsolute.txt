@@ -1,0 +1,9 @@
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\CaicerNotebook\source\repos\normal10as\pg2-s19e301-mascotas-parlante-caicer\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
